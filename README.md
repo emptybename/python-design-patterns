@@ -1,4 +1,4 @@
-# python-design-patterns
+# Python-Design-Patterns
 Traditionally design patterns are classified into three main categories:
 1. Creational
 2. Structural
