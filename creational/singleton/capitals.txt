@@ -1,0 +1,10 @@
+Gwalior
+10
+Bhind
+20
+Indore
+30
+Bhopal
+40
+Guna
+50
