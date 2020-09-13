@@ -16,8 +16,11 @@ OR
 - Wholesale(single statement) vs Piecewise(step-by-step)
 
 # Structural Design Patterns:
-Coming Soon
-
+1. Structural design patterns are used to assemble multiple classes into bigger working structures.
+2. They are very useful for creating readable, maintainable, layered code, 
+especially when dealing with external libraries, legacy code, interdependent 
+classes or numerous objects.
+3. Stress the importance of good API design
 
 # Behavioural Design Patterns:
 Coming Soon
