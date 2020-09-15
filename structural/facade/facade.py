@@ -23,6 +23,7 @@ class ViewPort:
         self.buffer.write(text)
 
 
+# We are providing simple interface 'console' to user regardless of underlying complexity
 class Console:
     def __init__(self):
         b = Buffer()
